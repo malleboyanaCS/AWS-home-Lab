@@ -29,12 +29,12 @@ To demonstrate hands-on skills in launching, configuring, and automating an Amaz
 
 ## Repository Structure
 
-# install apache web server
-yum update -y
-yum install httpd -y
+# # # install apache web server
+- yum update -y
+- yum install httpd -y
 # start and enable service
-service httpd start
-chkconfig httpd on
+- service httpd start
+- chkconfig httpd on
 
 
 
