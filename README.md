@@ -33,6 +33,12 @@ To demonstrate hands-on skills in launching, configuring, and automating an Amaz
 ### start and enable service
 - service httpd start
 - chkconfig httpd on - for permanant start the service then open the instance
+  
+### create simple HTML page
+- cd /var/www/html/  - to enter into directory
+- vim index.html - to edit
+  
+
 
 
 
