@@ -27,14 +27,12 @@ To demonstrate hands-on skills in launching, configuring, and automating an Amaz
 - AWS Console
 - (Optional) AWS CLI
 
-## Repository Structure
-
 ### install apache server
 - yum update -y
 - yum install httpd -y
-# start and enable service
+### start and enable service
 - service httpd start
-- chkconfig httpd on
+- chkconfig httpd on - for permanant start the service then open the instance
 
 
 
