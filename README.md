@@ -27,6 +27,8 @@ To demonstrate hands-on skills in launching, configuring, and automating an Amaz
 - AWS Console
 - (Optional) AWS CLI
 
+### Deployent of Web server
+
 ### install apache server
 - yum update -y
 - yum install httpd -y
